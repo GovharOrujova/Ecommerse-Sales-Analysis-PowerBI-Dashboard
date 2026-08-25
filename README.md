@@ -5,10 +5,6 @@ Interactive Power BI dashboard analyzing e-commerce transactions, sales performa
 
 # 🛒 E-Commerce Sales Analysis — Power BI Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi\&logoColor=black)
-![Data Analytics](https://img.shields.io/badge/Data-Analytics-blue)
-![E-Commerce](https://img.shields.io/badge/E--Commerce-Business%20Analysis-green)
-
 An interactive **Power BI E-Commerce Sales Analytics Dashboard** developed to analyze transaction performance, customer purchasing behavior, product category performance, payment methods, geographic sales distribution, and revenue drivers.
 
 The project transforms raw e-commerce transaction data into actionable business insights using DAX measures, KPI cards, segmentation analysis, and interactive visualizations.
